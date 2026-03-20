@@ -1,0 +1,227 @@
+Login: Wedd,
+Lokalizacja: Nevers, Duché de Bourgogne, Royaume de France
+Poziom: 271
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 16 września, 2011', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Reputacja: 255
+Inteligencja: 246
+Siła: 255
+Charyzma: 235
+
+Login: Benjen_stark
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 09 sierpnia, 2015', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Umiejętności:
+- P1 - Wstęp do historii (100%)
+
+Login: Christelle_alizee
+Lokalizacja: Mainz, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 711
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 17 stycznia, 2009', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Tytuł: Możny z Mainz
+Ścieżka: Państwo
+Reputacja: 255
+Inteligencja: 255
+Siła: 255
+Charyzma: 255
+Umiejętności:
+- R08 - Kościół Rzymski: historia i organizacja (100%)
+- R04 - Zasady moralne Arystotelesa (100%)
+- R09 - Dobro (100%)
+- R10 - Cnota (100%)
+- R15 - Przyjemność i Rozkosz (100%)
+- R11 - Powściągliwość (100%)
+- R12 - Sprawiedliwość (100%)
+- R13 - Przyjaźń (100%)
+- R14 - Siódma Rzecz. Być może siódme niebo. Albo lepiej: siódmy syn siódmego syna (100%)
+- R05 - Logika (100%)
+
+Login: Clumsi
+Lokalizacja: Mainz, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 770
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 12 kwietnia, 2008', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Zawód: Kowal
+Ścieżka: Państwo
+Reputacja: 255
+Inteligencja: 255
+Siła: 255
+Charyzma: 255
+Umiejętności:
+- P1 - Wstęp do historii (100%)
+- P2 - Studia nad urzędami państwowymi (100%)
+- P3 - Podstawy prawa (100%)
+- P4 - Techniki porozumiewania (100%)
+- P5 - Mechanizmy poboru podatków (100%)
+- P6 - Kupiectwo (100%)
+- A1 - Podstawowa wiedza o wojskowości (100%)
+- A2 - Podstawy taktyki (100%)
+- A3 - Podstawy strategii (100%)
+- A4 - Zaawansowana strategia (100%)
+
+Login: Conrad_v_baden
+Lokalizacja: Aschaffenburg, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 215
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 14 grudnia, 2022', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Zawód: Stolarz
+Reputacja: 255
+Inteligencja: 255
+Siła: 255
+Charyzma: 255
+
+Login: Cornbrant
+Lokalizacja: Frankfurt, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 431
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 22 stycznia, 2021', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Tytuł: Możny z Frankfurt
+Zawód: Rzeźnik
+Ścieżka: Państwo
+Reputacja: 255
+Inteligencja: 255
+Siła: 255
+Charyzma: 255
+Umiejętności:
+- N1 - Podstawy żeglugi (100%)
+- N2 - Astronomia (100%)
+- N3 - Zaawansowana żegluga (100%)
+- N4 - Podstawy inżynierii morskiej (100%)
+- N5 - Zaawansowana inżynieria morska (100%)
+- N6 - Mistrzostwo żeglugi (100%)
+- N7 - Podstawy walki morskiej (15%)
+- P1 - Wstęp do historii (100%)
+
+Login: Donsinilo
+Lokalizacja: Mainz, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 168
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 20 kwietnia, 2019', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Zawód: Rzeźnik
+Reputacja: 255
+Inteligencja: 32
+Siła: 13
+Charyzma: 0
+
+Login: Eligia
+Lokalizacja: Mainz, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 433
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 28 stycznia, 2021', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Reputacja: 255
+Inteligencja: 186
+Siła: 235
+Charyzma: 173
+
+Login: Elisabetha.
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 27 grudnia, 2023', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Felix_csabito
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 03 maja, 2020', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Freundhain
+Lokalizacja: Mainz, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 756
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 19 września, 2008', 'ostatnio_online': 'Ostatnio online 19 marca 2026'}
+Zawód: Piekarz
+Ścieżka: Medycyna
+Reputacja: 255
+Inteligencja: 255
+Siła: 255
+Charyzma: 255
+
+Login: Frodo_bacianna
+Lokalizacja: Aschaffenburg, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 567
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 20 listopada, 2012', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+Zawód: Kowal
+Ścieżka: Państwo
+Reputacja: 255
+Inteligencja: 255
+Siła: 227
+Charyzma: 72
+Umiejętności:
+- A1 - Podstawowa wiedza o wojskowości (100%)
+- A2 - Podstawy taktyki (100%)
+- A3 - Podstawy strategii (100%)
+- A4 - Zaawansowana strategia (100%)
+- M01 - Podstawy biologii (100%)
+- N1 - Podstawy żeglugi (100%)
+
+Login: Guido_bade
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 01 maja, 2008', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Hannesderschmied
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 03 lipca, 2007', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Hildegard_juliane
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 15 października, 2013', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Jelima
+Lokalizacja: Aschaffenburg, Fürstentum Mainz, Sacrum Romanorum Imperium Nationis Germanicæ
+Poziom: 222
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 09 października, 2012', 'ostatnio_online': 'Ostatnio online 19 marca 2026'}
+Zawód: Młynarz
+Ścieżka: Państwo
+Reputacja: 255
+Inteligencja: 160
+Siła: 124
+Charyzma: 1
+Umiejętności:
+- P1 - Wstęp do historii (100%)
+- P2 - Studia nad urzędami państwowymi (100%)
+- P3 - Podstawy prawa (100%)
+- P4 - Techniki porozumiewania (100%)
+- P5 - Mechanizmy poboru podatków (100%)
+- P6 - Kupiectwo (100%)
+
+Login: Kronom
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 02 marca, 2019', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Lordzenzo
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 20 października, 2013', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Moonlightoflove
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 16 lipca, 2010', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Oeff
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 26 listopada, 2010', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Rauschebart
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 01 kwietnia, 2021', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Roran
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 22 grudnia, 2019', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Samyuel
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 01 marca, 2019', 'ostatnio_online': 'Ostatnio online 19 marca 2026'}
+
+Login: Susianna
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 27 lutego, 2010', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Wardor
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 15 maja, 2016', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Xanderia
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 19 marca, 2022', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Hanf444
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 20 stycznia, 2016', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Jan_zu_johannisthal
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 06 grudnia, 2024', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Maggie_.
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 22 grudnia, 2022', 'ostatnio_online': 'Ostatnio online 18 marca 2026'}
+
+Login: Shawn_maccaulich
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 03 stycznia, 2009', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Gerhard_sachs
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 25 marca, 2020', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Bolko
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 16 września, 2024', 'ostatnio_online': 'Ostatnio online 19 marca 2026'}
+
+Login: Takenshii
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 18 września, 2025', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Hannahvondi
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 22 grudnia, 2025', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
+Login: Victoria817
+Stan: {'stan': '', 'stworzony': 'Stworzony(a) dnia 23 stycznia, 2026', 'ostatnio_online': 'Ostatnio online 20 marca 2026'}
+
